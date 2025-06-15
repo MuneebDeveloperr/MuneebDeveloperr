@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Muneeb ur Rehman</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | UI/UX Explorer</h3>
+<h3 align="center">💻 Frontend Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F75000&center=true&vCenter=true&width=435&lines=Frontend+%F0%9F%92%BB+Developer;React.js+%2B+Tailwind+Lover;Building+clean+UIs+%26+powerful+APIs;Learning+something+new+everyday!" alt="Typing SVG" />
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F75000&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%2B+Tailwind+Specialist;Learning+Node+%26+MongoDB;UI/UX+Focused;Passionate+About+Web+Development!" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### ✨ About Me
 
-- 💻 Currently working on **MERN stack projects**
-- 🎯 Focused on building real-world web apps with intuitive UI and smooth user experiences
-- 📚 Constantly learning new technologies and tools
-- 💬 Ask me about **React.js**, **Node.js**, **MongoDB**, or anything web dev related
-- 📫 Reach me at **muneeburrehman885@gmail.com**
+- 🌍 I'm from **Pakistan**
+- 💻 A passionate **Frontend Developer**
+- 📚 Currently learning **Node.js**, **MongoDB**, and full MERN stack
+- 🎨 Exploring **UI/UX design principles**
+- 💬 Ask me about **React.js**, **HTML/CSS**, **Tailwind**, and **Responsive Web Design**
+- 📫 How to reach me: **muneeburrehman885@gmail.com**
 
 ---
 
@@ -33,36 +34,86 @@
 
 ---
 
-### ⚙️ Tech Stack & Tools
+### 💼 Tech Stack & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-</p>
+<h3 align="center">Frontend Technologies</h3>
+
+<table align="center">
+<tr>
+  <td align="center" width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="60"><br>HTML5
+  </td>
+  <td align="center" width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="60"><br>CSS3
+  </td>
+  <td align="center" width="200">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"><br>JavaScript
+  </td>
+  <td align="center" width="200">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"><br>React.js
+  </td>
+</tr>
+<tr>
+  <td align="center" width="200">
+    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="60"><br>Bootstrap
+  </td>
+  <td align="center" width="200">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60"><br>SASS
+  </td>
+  <td align="center" width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="60"><br>Tailwind CSS
+  </td>
+  <td align="center" width="200">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.svg" width="60"><br>Figma
+  </td>
+</tr>
+</table>
+
+<br/>
+
+<h3 align="center">Currently Learning (Backend Tools)</h3>
+
+<table align="center">
+<tr>
+  <td align="center" width="200">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="60"><br>Node.js
+  </td>
+  <td align="center" width="200">
+    <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="60"><br>Express.js
+  </td>
+  <td align="center" width="200">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"><br>MongoDB
+  </td>
+  <td align="center" width="200">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="60"><br>MySQL
+  </td>
+</tr>
+<tr>
+  <td align="center" width="200">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="60"><br>GitHub
+  </td>
+  <td align="center" width="200">
+    <img src="https://seeklogo.com/images/G/git-icon-logo-0A1B2C9BC3-seeklogo.com.png" width="60"><br>Git
+  </td>
+  <td align="center" width="200">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="60"><br>VS Code
+  </td>
+  <td align="center" width="200">
+    <img src="https://img.icons8.com/color/452/adobe-photoshop--v1.png" width="60"><br>Photoshop
+  </td>
+</tr>
+</table>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuneebDeveloperr&show_icons=true&theme=tokyonight" alt="Muneeb's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuneebDeveloperr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuneebDeveloperr&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuneebDeveloperr&theme=tokyonight" alt="Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebDeveloperr&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
-
