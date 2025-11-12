@@ -26,33 +26,34 @@
 <table align="center">
 <tr>
   <td align="center" width="200">
-    <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="60"><br>Jira
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_Logo.svg" width="60"><br>Jira
   </td>
   <td align="center" width="200">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="60"><br>TestLink
+    <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="60"><br>Trello
   </td>
   <td align="center" width="200">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/trello-icon.svg" width="60"><br>Trello
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60"><br>Postman
   </td>
   <td align="center" width="200">
-    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="60"><br>Postman (API Testing)
+    <img src="https://cdn.worldvectorlogo.com/logos/zoho-crm-1.svg" width="60"><br>Zoho CRM
   </td>
 </tr>
 <tr>
   <td align="center" width="200">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Zoho-logo.png" width="60"><br>Zoho CRM
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/TestLink-logo.png" width="60"><br>TestLink
   </td>
   <td align="center" width="200">
-    <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="60"><br>Bug Tracking Tools
+    <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="60"><br>Bug Tracking
   </td>
   <td align="center" width="200">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="60"><br>MS Excel / Google Sheets
   </td>
   <td align="center" width="200">
-    <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="60"><br>Browser Testing
+    <img src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" width="60"><br>Browser Testing
   </td>
 </tr>
 </table>
+
 
 ---
 
