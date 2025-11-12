@@ -1,20 +1,79 @@
 <h1 align="center">Hi 👋, I'm Muneeb ur Rehman</h1>
-<h3 align="center">💻 Frontend Developer </h3>
+<h3 align="center">🔍 Aspiring Software Quality Assurance Engineer</h3>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F75000&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%2B+Tailwind+Specialist;Learning+Node+%26+MongoDB;UI/UX+Focused;Passionate+About+Web+Development!" alt="Typing SVG" /></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=Manual+Testing;Bug+Tracking+and+Reporting;SDLC+%26+STLC;Ensuring+Software+Quality!" alt="Typing SVG" /></a>
 </p>
 
 ---
 
 ### ✨ About Me
 
-- 🌍 I'm from **Pakistan**
-- 💻 A passionate **Frontend Developer**
-- 📚 Currently learning **Node.js**, **MongoDB**, and full MERN stack
-- 🎨 Exploring **UI/UX design principles**
-- 💬 Ask me about **React.js**, **HTML/CSS**, **Tailwind**, and **Responsive Web Design**
-- 📫 How to reach me: **muneeburrehman885@gmail.com**
+- 🌍 Based in **Pakistan**
+- 🎯 An enthusiastic **Software Quality Assurance (SQA) Intern**
+- 🧠 Have hands-on experience in **Manual Testing, Bug Tracking, and Test Case Writing**
+- 💼 Completed a **2-month SQA internship** at a Zoho CRM–based software house
+- 🧩 Strong understanding of **SDLC**, **STLC**, and **Defect Life Cycle**
+- ⚙️ Passionate about improving software quality and learning automation testing tools
+- 📫 Reach me at: **muneeburrehman885@gmail.com**
+
+---
+
+### 🧪 Tools & Technologies
+
+<h3 align="center">Testing & QA Tools</h3>
+
+<table align="center">
+<tr>
+  <td align="center" width="200">
+    <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="60"><br>Jira
+  </td>
+  <td align="center" width="200">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="60"><br>TestLink
+  </td>
+  <td align="center" width="200">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/trello-icon.svg" width="60"><br>Trello
+  </td>
+  <td align="center" width="200">
+    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="60"><br>Postman (API Testing)
+  </td>
+</tr>
+<tr>
+  <td align="center" width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Zoho-logo.png" width="60"><br>Zoho CRM
+  </td>
+  <td align="center" width="200">
+    <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="60"><br>Bug Tracking Tools
+  </td>
+  <td align="center" width="200">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="60"><br>MS Excel / Google Sheets
+  </td>
+  <td align="center" width="200">
+    <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="60"><br>Browser Testing
+  </td>
+</tr>
+</table>
+
+---
+
+### 🧩 QA Knowledge Areas
+
+- ✅ Software Development Life Cycle (**SDLC**)  
+- ✅ Software Testing Life Cycle (**STLC**)  
+- ✅ Functional & Non-Functional Testing  
+- ✅ Test Case Writing & Execution  
+- ✅ Defect/Bug Life Cycle  
+- ✅ Regression, Smoke & Sanity Testing  
+- ✅ Requirement (SRS) Review  
+- ✅ GUI & Usability Testing  
+
+---
+
+### 📚 Currently Learning
+
+- 🧠 **Automation Testing (Selenium WebDriver)**
+- ⚙️ **API Testing (Advanced Postman Features)**
+- 📋 **Test Documentation & Reporting**
 
 ---
 
@@ -34,78 +93,6 @@
 
 ---
 
-### 💼 Tech Stack & Tools
-
-<h3 align="center">Frontend Technologies</h3>
-
-<table align="center">
-<tr>
-  <td align="center" width="200">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="60"><br>HTML5
-  </td>
-  <td align="center" width="200">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="60"><br>CSS3
-  </td>
-  <td align="center" width="200">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"><br>JavaScript
-  </td>
-  <td align="center" width="200">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"><br>React.js
-  </td>
-</tr>
-<tr>
-  <td align="center" width="200">
-    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="60"><br>Bootstrap
-  </td>
-  <td align="center" width="200">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60"><br>SASS
-  </td>
-  <td align="center" width="200">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="60"><br>Tailwind CSS
-  </td>
-  <td align="center" width="200">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.svg" width="60"><br>Figma
-  </td>
-</tr>
-</table>
-
-<br/>
-
-<h3 align="center">Currently Learning (Backend Tools)</h3>
-
-<table align="center">
-<tr>
-  <td align="center" width="200">
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="60"><br>Node.js
-  </td>
-  <td align="center" width="200">
-    <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="60"><br>Express.js
-  </td>
-  <td align="center" width="200">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"><br>MongoDB
-  </td>
-  <td align="center" width="200">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="60"><br>MySQL
-  </td>
-</tr>
-<tr>
-  <td align="center" width="200">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="60"><br>GitHub
-  </td>
-  <td align="center" width="200">
-    <img src="https://seeklogo.com/images/G/git-icon-logo-0A1B2C9BC3-seeklogo.com.png" width="60"><br>Git
-  </td>
-  <td align="center" width="200">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="60"><br>VS Code
-  </td>
-  <td align="center" width="200">
-    <img src="https://img.icons8.com/color/452/adobe-photoshop--v1.png" width="60"><br>Photoshop
-  </td>
-</tr>
-</table>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -117,3 +104,10 @@
 </p>
 
 ---
+
+### 🎯 Career Goal
+
+> To become a skilled **Software Quality Assurance Engineer**, contributing to the delivery of high-quality, reliable software through effective testing, detailed analysis, and continuous learning.
+
+---
+
