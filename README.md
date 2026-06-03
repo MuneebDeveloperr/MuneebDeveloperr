@@ -12,7 +12,6 @@
 - 🌍 Based in **Pakistan**
 - 🎯 An enthusiastic **Software Quality Assurance (SQA) Intern**
 - 🧠 Have hands-on experience in **Manual Testing, Bug Tracking, and Test Case Writing**
-- 💼 Completed a **2-month SQA internship** at a Zoho CRM–based software house
 - 🧩 Strong understanding of **SDLC**, **STLC**, and **Defect Life Cycle**
 - ⚙️ Passionate about improving software quality and learning automation testing tools
 - 📫 Reach me at: **muneeburrehman885@gmail.com**
